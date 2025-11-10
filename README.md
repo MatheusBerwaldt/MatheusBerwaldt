@@ -9,8 +9,7 @@ Estudante de Engenharia de Software apaixonado por tecnologias.
 </a>
 
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBerwaldt&show_icons=true&theme=radical)
-
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusBerwaldt&show_icons=true&theme=tokyonight)
 
 
 
