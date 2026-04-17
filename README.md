@@ -1,6 +1,4 @@
-## Olá! Eu sou o Matheus🤚
-Estudante de Engenharia de Software apaixonado por tecnologias.
-
+## Olá! Eu sou o Matheus
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusberwaldt/)
@@ -20,11 +18,6 @@ Estudante de Engenharia de Software apaixonado por tecnologias.
 [![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)](https://docs.spring.io/spring-security/reference/index.html)
 
-
-##### Estudando:
-[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ###### Databases:
 
